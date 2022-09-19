@@ -10,4 +10,3 @@ if (button1) {
         console.log(add(+input1.value, +input2.value));
     });
 }
-//# sourceMappingURL=first.js.map
